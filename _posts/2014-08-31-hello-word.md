@@ -1,6 +1,6 @@
 ---
 title: Project 1
-featured: /assets/images/pic01.jpg
+featured: /assets/images/Minesweeper.PNG
 layout: post
 ---
 
