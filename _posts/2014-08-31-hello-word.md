@@ -1,14 +1,10 @@
 ---
-title: Ullamco Laboris minim veniam
+title: Project 1
 featured: /assets/images/pic01.jpg
 layout: post
 ---
 
+<p>This is what it did</p>
 <ul class="links">
-	<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
-	<li><a href="#">Ornare in hendrerit in lectus</a></li>
-	<li><a href="#">Semper mod quis eget mi dolore</a></li>
-	<li><a href="#">Consequat etiam lorem phasellus</a></li>
-	<li><a href="#">Amet turpis, feugiat et sit amet</a></li>
-	<li><a href="#">Semper mod quisturpis nisi</a></li>
+	<li><a href="#">Link to code if available</a></li>
 </ul>
