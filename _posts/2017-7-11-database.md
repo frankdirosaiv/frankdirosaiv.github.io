@@ -1,5 +1,6 @@
 ---
 title: Custom Database
+featured: /assets/images/banner.jpg
 layout: post
 ---
 
